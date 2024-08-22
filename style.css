@@ -1,0 +1,24 @@
+body {
+  box-sizing: content-box;
+}
+
+.nav-item-mini .nav-link {
+  color: black;
+}
+
+.nav-item-mini .nav-link:hover {
+  color: #1f51ff;
+  text-decoration: underline;
+}
+
+.cart-icon:hover {
+  border-radius: 12.5%;
+  background-color: yellow;
+}
+
+#voucher {
+  color: black;
+  background-color: #ffa500;
+}
+
+//Footer
